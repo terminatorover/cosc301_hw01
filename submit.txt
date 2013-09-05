@@ -1,0 +1,25 @@
+#301 Operating Systems
+
+#Robera Geleta
+#HW 1
+
+
+1-
+chmod 600 system*
+
+
+2-
+   chmod 600 systems.txt
+   echo ls -l -a | grep systems.txt
+
+
+  chmod 711 perms.sh
+
+
+3- 
+the dot means "this directory".  It is used as a shorthand for the 
+current directory. So instead of specifying the whole path we type "."
+to say current directory and then use slash to specify the file name
+which we wish to execute. 
+
+

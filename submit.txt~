@@ -1,0 +1,16 @@
+#301 Operating Systems
+
+#Robera Geleta
+#HW 1
+
+
+1-
+chmod 600 system*
+
+
+2-
+   chmod 600 systems.txt
+   echo ls -l -a | grep systems.txt
+
+
+  chmod 711 perms.sh
