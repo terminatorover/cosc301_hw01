@@ -27,3 +27,6 @@ grep 'x' sys* | wc -l
 
 5-
 grep -v 'os' sys* | wc -l
+
+6-
+ps aux | grep `whoami` | sort -k5 -nr 
